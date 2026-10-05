@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3af03cc2-8616-459f-a3a9-daeee4c79df0">
+  <name>EDTСправочники</name>
+  <synonym>
+    <key>ru</key>
+    <value>EDTСправочники</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Catalog.EDTДолжности</content>
+</mdclass:Subsystem>
